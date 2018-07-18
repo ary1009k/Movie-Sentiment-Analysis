@@ -1,0 +1,3 @@
+The Classifier classifies the movie reviews into 2 categories (positive or negative). It first preprecoesses the given text, creates vector from the 
+movie review text. The pre processed data is fed into the classifiers. The ensembled model is used to get the final verdict.
+This idea can be easily extended to Multi-class Classifier.
